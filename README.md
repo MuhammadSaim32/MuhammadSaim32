@@ -1,10 +1,5 @@
 # 💫 About Me:
-I’m currently working on a MERN ecommerce project.<br>Learning backend development with Node.js & MongoDB.
-
-### 🤝 **Want to Collaborate?**
-🚀 I'm always open to working on exciting projects!  
-If you're interested in **collaborating**, feel free to **reach out** via:  
-
+...
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadsaim3) 
 
