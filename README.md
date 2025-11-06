@@ -8,23 +8,30 @@
 
 ## 🚀 Projects
 
-### 📝 Blog Application  
+# Blog Application  
 **Live Demo:** [https://blog-app-react-js-seven.vercel.app](https://blog-app-react-js-seven.vercel.app)  
-A full-stack blog app built with **React** (frontend) and **Appwrite** (backend) for learning web development.
 
-**🔧 Tech Stack:**  
-- **Frontend:** React, Redux, React Hook Form, React Router, TinyMCE, Tailwind CSS  
-- **Backend:** Appwrite (Auth, DB, Storage)  
-- **Other:** AI-assisted layout & design  
-
-**✅ Features:**  
-- Create, update, and delete blog posts  
-- Rich text editor with TinyMCE  
-- User account management  
-- Routing and form validation  
-- Authorization based on login state  
+A full-stack blog app built with **React (frontend)** and **Appwrite (backend)** for learning web development.
 
 ---
+
+🔧 **Tech Stack:**
+
+**Frontend:** React, Redux Toolkit, Redux Persist, React Hook Form, React Router, Markdown-It, React Markdown, React Markdown Editor Lite, Remark GFM, Tailwind CSS, FontAwesome  
+**Backend:** Appwrite (Auth, Database, Storage)  
+**Other:** AI-assisted layout & design  
+
+---
+
+✅ **Features:**
+
+- Create, update, and delete blog posts  
+- Markdown-based editor with live preview  
+- User account management (signup, login, delete)  
+- Routing and form validation  
+- Authorization based on login state  
+- Persistent user session (Redux Persist)  
+- Responsive and modern UI with Tailwind CSS  
 
 ### 🛒 MERN Stack eCommerce App  
 A Commerce backend using the **MERN stack** with multi-role access.
