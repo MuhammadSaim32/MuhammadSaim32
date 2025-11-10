@@ -34,6 +34,8 @@ A full-stack blog app built with **React (frontend)** and **Appwrite (backend)**
 - Responsive and modern UI with Tailwind CSS  
 
 ### 🛒 MERN Stack eCommerce App  
+**Live Demo:** [https://mern-ecommerce-practice.vercel.app/](https://mern-ecommerce-practice.vercel.app/)  
+
 A Commerce backend using the **MERN stack** with multi-role access.
 
 **🔧 Tech Stack:**  
