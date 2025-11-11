@@ -26,6 +26,7 @@ Full-stack web developer with hands-on experience in React, Node.js, and cloud d
 ---
 
 **Projects\_**  
+
 BlogApplication | [Live Link](https://blog-app-react-js-seven.vercel.app/)  | [Github](https://github.com/MuhammadSaim32/BlogApp-React-Js-) |
 
 * Built a **full-stack blog** platform using React, **Appwrite**, and Tailwind CSS.  
